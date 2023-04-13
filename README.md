@@ -3,4 +3,5 @@
 Environment requires `npx` and `vite`
 
 Run `npm install`
-Run `npx vite` (command line will generate a local url)
+
+Run `npx vite` to generate website and initiate watch mode.
